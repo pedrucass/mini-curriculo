@@ -1,6 +1,10 @@
 # Currículo Digital - Pedro Campos
 
-![Imagem da sua página](images/site)
+<p align= "center">
+<a href="https://pedrucass.github.io/rocket_seat/" target="_blank">Clique aqui para acessar o projeto.</a>
+</p>
+
+![Imagem da sua página](images/site.png)
 
 ## 📖 Sobre o Projeto
 
