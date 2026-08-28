@@ -4,7 +4,7 @@
 <a href="https://pedrucass.github.io/mini-curriculo/" target="_blank">Clique aqui para acessar o projeto.</a>
 </p>
 
-![Imagem da sua página](images/image.png)
+![Imagem da sua página](images/site.png)
 
 ## 📖 Sobre o Projeto
 
